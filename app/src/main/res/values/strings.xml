@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Vaccine Finder</string>
+    <string name="enter_pin_code">enter pin code</string>
+    <string name="search">Search</string>
+</resources>
